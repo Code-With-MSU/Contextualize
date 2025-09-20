@@ -1,0 +1,5 @@
+.env
+data/
+vvv/
+vector_db.index
+vector_db_meta.pkl
